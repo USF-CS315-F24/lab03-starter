@@ -1,2 +1,1 @@
-# lab03-starter
-Lab03 starter code
+Lab03 Starter Code
